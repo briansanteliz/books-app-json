@@ -22,4 +22,11 @@ Devdependencies:
 `npm run dev`
 
 
+### Screenshot to the app:
+
+![Screenshot](/docs/doc.png 'Screenshot de la app')
+ 
+ :+1:
+ 
+  :smile:
 
